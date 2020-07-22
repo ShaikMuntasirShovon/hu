@@ -1,0 +1,108 @@
+.b{
+    position: absolute;
+    margin-left: 550px;
+    width: 450px;
+    height: 250px;
+    
+    
+}
+.bi{
+    color: brown;
+}
+.ap{
+    color: darkgreen;
+}
+.p{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 580px;
+    
+}
+.hi{
+    font-size: 40px;
+    position: absolute;
+    margin-top: 330px;
+    
+}
+.apa{
+    color: darkgrey;
+    
+}
+.first{
+    position: absolute;
+    margin-top: 415px;
+    width: 500px;
+    box-shadow: 20px 20px 40px black;
+}
+.pa{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 780px;
+    color: lightsalmon;
+}
+.pap{
+    color: lightslategrey;
+    box-shadow: 10px 10px 40px tomato;
+    padding: 20px;
+    position: absolute;
+    margin-left: 780px;
+    margin-top: 500px;
+}
+.pl{
+    width: 450px;
+    position: absolute;
+    margin-top: 900px;
+    height: 600px;
+    margin-left: 750px;
+    box-shadow: 20px 20px 40px black;
+}
+.sexy{
+    position: absolute;
+    margin-top: 900px;
+    color: olive;
+}
+.unc{
+    position: absolute;
+    margin-top: 1100px;
+    box-shadow: 10px 10px 50px gray;
+    padding: 20px;
+    color: slateblue;
+}
+.pcl{
+    position: absolute;
+    width: 450px;
+    margin-top: 1550px;
+    box-shadow: 20px 20px 40px black;
+}
+.mother{
+    position: absolute;
+    margin-top: 1600px;
+    margin-left: 700px;
+    color: brown;
+}
+.mo{
+    position: absolute;
+    margin-top: 1750px;
+    margin-left: 550px;
+    box-shadow: 10px 10px 40px brown;
+    padding: 20px;
+}
+.just{
+    position: absolute;
+    margin-top: 2250px;
+    color: red;
+}
+.ju{
+    position: absolute;
+    margin-top: 2410px;
+    color: sandybrown;
+    box-shadow: 10px 10px 30px sandybrown;
+    padding: 20px;
+}
+.ikhu{
+    position: absolute;
+    margin-top: 2200px;
+    margin-left: 900px;
+    width: 450px;
+    box-shadow: 20px 20px 40px black;
+}
